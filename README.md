@@ -11,3 +11,6 @@ The project makes use of Selenium and BeautifulSoup4 to run an automation workfl
  - Commission Date
  - Estimated overall renewable energy contribution (%)
  - Partners
+
+Visualization of CrossBoundary Energy Projects
+![A visualization of CrossBoundary Energy projects across various countries](C:\Users\mrAyoku\Downloads\CrossBoundary Energy Projects)
