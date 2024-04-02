@@ -12,7 +12,7 @@ The project makes use of Selenium and BeautifulSoup4 to run an automation workfl
  - Estimated overall renewable energy contribution (%)
  - Partners
 
-Visualization of CrossBoundary Energy Projects
+## Visualization of CrossBoundary Energy Projects
 ![A visualization of CrossBoundary Energy projects across various countries](https://github.com/oluwatobiwilliams/crossboundary-energy-projects/blob/main/CrossBoundary%20Energy%20Projects.png)
 
 Live Tableau Visualization - https://public.tableau.com/app/profile/tobi.williams.babatunde/viz/CrossBoundaryEnergyProjects/CrossBoundaryEnergyProjects
