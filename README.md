@@ -17,4 +17,4 @@ The project makes use of Selenium and BeautifulSoup4 to run an automation workfl
 
 Live Tableau Visualization - https://public.tableau.com/app/profile/tobi.williams.babatunde/viz/CrossBoundaryEnergyProjects/CrossBoundaryEnergyProjects
 
-<a href = https://public.tableau.com/app/profile/tobi.williams.babatunde/viz/CrossBoundaryEnergyProjects/CrossBoundaryEnergyProjects> Tableau Viz </a>
+<a href = "https://public.tableau.com/app/profile/tobi.williams.babatunde/viz/CrossBoundaryEnergyProjects/CrossBoundaryEnergyProjects" target="blank"> Tableau Viz </a>
